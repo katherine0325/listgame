@@ -1,2 +1,4 @@
 node_modules
+# bower_components 里面有bootstrap，考虑一下要怎么处置
 bower_components
+public
